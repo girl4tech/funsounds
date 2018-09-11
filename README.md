@@ -9,4 +9,4 @@ Clap, Kick, Boom - drum away!
 
 **Tech used:** HTML, CSS, JavaScript
 
-To build the card game, I started off with an HTML container and within that HTML container, I added the cards. Next, I applied a few styles on the cards and modified properties such as width, height, color, etc. There were a couple of functions that also had to be established. For example, the random shuffle algorithm was a simple but fun aspect of this game. The algorithm involves a variable that loops through the length of an array and generates a random number to shuffle the cards. Another important function was to check if the cards matched. I did this by using the data-* attribute to verify if the value of an HTML element or card, was equal to the value of another card. 
+Different keys on your computer keyboard have a corresponding number, or JavaScript event keycodes. For example a = 65, f = 70, etc. Some keys don't have codes. The idea is, when a user presses a key on her keyboard, we can use the number associated with that key to play an audio element that also matches that number with a data attribute (data-key). Try it! Make funny tunes and enjoy!
