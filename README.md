@@ -1,7 +1,7 @@
 # drums
 Clap, Kick, Boom - drum away!
 
-**Demo the drum kit here:** https://karina001.github.io/spanishColorsMemoryGame/
+**Demo the drum kit here:** https://karina001.github.io/drums/
 
 ![alt tag](https://github.com/karina001/spanishColorsMemoryGame/blob/master/spanishMemoryGame.png)
 
