@@ -1,7 +1,7 @@
 # Fun Sounds!
 Bugs, Homer, Ron Weasley - enjoy fun sounds from cartoons and movies!
 
-**Demo the sound kit here:** https://karina001.github.io/drums/
+**Demo the sound kit here:** https://karina001.github.io/funsounds/
 
 ![alt tag](https://github.com/karina001/drums/blob/master/Screen%20Shot%202018-09-11%20at%202.41.04%20AM.png)
 
